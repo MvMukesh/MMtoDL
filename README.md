@@ -1,2 +1,2 @@
 # MMtoDL
-Deep Learning Framework from 0 to 1/0
+Deep Learning Framework's from 0 to 1/0
